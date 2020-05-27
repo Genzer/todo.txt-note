@@ -1,5 +1,5 @@
-name = "todo-des"
-version = '0.1.0'
+name = "todo-note"
+version = '0.2.0'
 description = """
-An add-on to add `description` into todo.txt-cli task
+An add-on to add `note` into todo.txt-cli task
 """
